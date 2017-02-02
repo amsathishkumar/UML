@@ -7,4 +7,6 @@ notation:
      1) Non shared
      2) Shared
 3) Generalization
+        inherti
 4) Realization
+       interface
